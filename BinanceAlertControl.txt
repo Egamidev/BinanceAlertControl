@@ -1,1 +1,1 @@
-{"version":1.0,"desactivar_app":false}
+{"version":1.0,"desactivar_app":true}
