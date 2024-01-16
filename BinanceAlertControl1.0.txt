@@ -1,1 +1,1 @@
-{"version":1.0,"desactivar_app":false}
+{"version":1.0,"desactivar_app":false,"paginaDonacion":"https://www.paypal.com/donate/?hosted_button_id=E9M8JR8K3CDXC","paginaDescarga":"https://www.paypal.com/donate/?hosted_button_id=E9M8JR8K3CDXC"}
